@@ -1,1 +1,2 @@
-console.log("as")
+console.log("as");
+console.log("asada");
